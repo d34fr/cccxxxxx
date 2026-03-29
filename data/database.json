@@ -1,0 +1,21 @@
+{
+  "guilds": {
+    "1418193932969447456": {
+      "logs_channel_id": "1418219972705915092",
+      "gestion_role_ids": [],
+      "staff_role_ids": [],
+      "mute_role_id": null,
+      "sanction_channel_id": "1418219959070494850"
+    },
+    "1412640215188635711": {
+      "logs_channel_id": null,
+      "gestion_role_ids": [],
+      "staff_role_ids": [],
+      "mute_role_id": null,
+      "sanction_channel_id": null
+    }
+  },
+  "sanctions": [],
+  "ownerMute": {},
+  "nextSanctionId": 1
+}

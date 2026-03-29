@@ -1,0 +1,12 @@
+{
+  "token": "xx",
+  "botOwners": ["768522057218523216"],
+  "guildId": null,
+  "defaultEmbed": {
+    "color": "#2f3136",
+    "footer": {
+      "text": "Footer & Icon Custom (Changeable)",
+      "iconURL": "https://cdn.discordapp.com/attachments/1418219636851478701/1432041707796697181/telechargement_2.gif?ex=68ff9c45&is=68fe4ac5&hm=56a39b905fc5e0b856124b9ad5dbdf2c35b1931b6f5be08764b74d7fc399055e&"
+    }
+  }
+}
